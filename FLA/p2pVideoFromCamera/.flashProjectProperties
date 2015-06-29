@@ -1,0 +1,47 @@
+﻿<projectDescription>
+	<id>1238637846607</id>
+	<name>~p2pPart3(1)</name>
+	<asVersion>0</asVersion>
+	<boundTemplate>file:///C|/Documents and Settings/Admin/Local Settings/Application Data/Adobe/Flash CS4/en/Configuration/Project/templates/boundClass_as3.as</boundTemplate>
+	<classTemplate>file:///C|/Documents and Settings/Admin/Local Settings/Application Data/Adobe/Flash CS4/en/Configuration/Project/templates/standardClass_as3.as</classTemplate>
+	<classPath>.</classPath>
+	<rootURI>C:\Documents and Settings\Admin\Desktop\p2pPart3(1)</rootURI>
+	<flexSDK/>
+	<sources editable="false"/>
+	<libraries editable="false"/>
+	<externalLibraries editable="false"/>
+	<compileList editable="false">
+		<uri label="~p2pPart3(1).fla">file:///C|/Documents and Settings/Admin/Desktop/p2pPart3(1)/~p2pPart3(1).fla</uri>
+	</compileList>
+	<defaultApp>file:///C|/Documents and Settings/Admin/Desktop/p2pPart3(1)/~p2pPart3(1).fla</defaultApp>
+	<recentFiles editable="false">
+		<uri label="p2pPart3.as">file:///C|/Documents and Settings/Admin/Desktop/p2pPart3(1)/p2pPart3.as</uri>
+		<uri label="UIComponent.as">file:///C|/Documents and Settings/Admin/Desktop/p2pPart3(1)/fl/core/UIComponent.as</uri>
+		<uri label="BaseButton.as">file:///C|/Documents and Settings/Admin/Desktop/p2pPart3(1)/fl/controls/BaseButton.as</uri>
+		<uri label="IFocusManagerComponent.as">file:///C|/Documents and Settings/Admin/Desktop/p2pPart3(1)/fl/managers/IFocusManagerComponent.as</uri>
+		<uri label="LabelButton.as">file:///C|/Documents and Settings/Admin/Desktop/p2pPart3(1)/fl/controls/LabelButton.as</uri>
+		<uri label="Button.as">file:///C|/Documents and Settings/Admin/Desktop/p2pPart3(1)/fl/controls/Button.as</uri>
+		<uri label="TextInput.as">file:///C|/Documents and Settings/Admin/Desktop/p2pPart3(1)/fl/controls/TextInput.as</uri>
+		<uri label="Button_disabledSkin.as">file:///C|/Documents and Settings/Admin/Desktop/p2pPart3(1)/Button_disabledSkin.as</uri>
+		<uri label="Button_downSkin.as">file:///C|/Documents and Settings/Admin/Desktop/p2pPart3(1)/Button_downSkin.as</uri>
+		<uri label="Button_emphasizedSkin.as">file:///C|/Documents and Settings/Admin/Desktop/p2pPart3(1)/Button_emphasizedSkin.as</uri>
+		<uri label="Button_overSkin.as">file:///C|/Documents and Settings/Admin/Desktop/p2pPart3(1)/Button_overSkin.as</uri>
+		<uri label="Button_selectedDisabledSkin.as">file:///C|/Documents and Settings/Admin/Desktop/p2pPart3(1)/Button_selectedDisabledSkin.as</uri>
+		<uri label="Button_selectedDownSkin.as">file:///C|/Documents and Settings/Admin/Desktop/p2pPart3(1)/Button_selectedDownSkin.as</uri>
+		<uri label="Button_selectedOverSkin.as">file:///C|/Documents and Settings/Admin/Desktop/p2pPart3(1)/Button_selectedOverSkin.as</uri>
+		<uri label="Button_selectedUpSkin.as">file:///C|/Documents and Settings/Admin/Desktop/p2pPart3(1)/Button_selectedUpSkin.as</uri>
+		<uri label="Button_upSkin.as">file:///C|/Documents and Settings/Admin/Desktop/p2pPart3(1)/Button_upSkin.as</uri>
+		<uri label="TextInput_disabledSkin.as">file:///C|/Documents and Settings/Admin/Desktop/p2pPart3(1)/TextInput_disabledSkin.as</uri>
+		<uri label="TextInput_upSkin.as">file:///C|/Documents and Settings/Admin/Desktop/p2pPart3(1)/TextInput_upSkin.as</uri>
+		<uri label="ButtonLabelPlacement.as">file:///C|/Documents and Settings/Admin/Desktop/p2pPart3(1)/fl/controls/ButtonLabelPlacement.as</uri>
+		<uri label="ComponentShim.as">file:///C|/Documents and Settings/Admin/Desktop/p2pPart3(1)/fl/core/ComponentShim.as</uri>
+		<uri label="InvalidationType.as">file:///C|/Documents and Settings/Admin/Desktop/p2pPart3(1)/fl/core/InvalidationType.as</uri>
+		<uri label="ComponentEvent.as">file:///C|/Documents and Settings/Admin/Desktop/p2pPart3(1)/fl/events/ComponentEvent.as</uri>
+		<uri label="IFocusManager.as">file:///C|/Documents and Settings/Admin/Desktop/p2pPart3(1)/fl/managers/IFocusManager.as</uri>
+		<uri label="FocusManager.as">file:///C|/Documents and Settings/Admin/Desktop/p2pPart3(1)/fl/managers/FocusManager.as</uri>
+		<uri label="StyleManager.as">file:///C|/Documents and Settings/Admin/Desktop/p2pPart3(1)/fl/managers/StyleManager.as</uri>
+		<uri label="focusRectSkin.as">file:///C|/Documents and Settings/Admin/Desktop/p2pPart3(1)/focusRectSkin.as</uri>
+		<uri label="IFocusManagerGroup.as">file:///C|/Documents and Settings/Admin/Desktop/p2pPart3(1)/fl/managers/IFocusManagerGroup.as</uri>
+	</recentFiles>
+	<locations editable="false"/>
+</projectDescription>
