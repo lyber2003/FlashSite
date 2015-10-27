@@ -4,7 +4,7 @@
   <output>
     <movie outputType="Application" />
     <movie input="" />
-    <movie path="..\CREATOR\ggl_test\FlashLauncher.swf" />
+    <movie path="..\FlashLauncher.swf" />
     <movie fps="15" />
     <movie width="488" />
     <movie height="199" />

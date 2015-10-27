@@ -80,7 +80,8 @@ package
 			trace("tmp[2]- " + tmp[2] + "***************")
 			debutText.text = ""+tmp[2];	
 			if (tmp[2] == null) {
-				trace("**********************user mode- " + tmp[2] + "***************")
+				trace("**********************user mode- " + tmp[2] + "***************" + url)
+				
 				loader_1.load(new URLRequest("https://googledrive.com/host/0B-lOxB6iLdGlLWtlcFdqeEhiSDg/RRC/container.swf?" + Math.random()), contextB);
 				//loader_1.load(new URLRequest("https://googledrive.com/host/0B-lOxB6iLdGlLWtlcFdqeEhiSDg/RRC/containerGoogle.swf?" + Math.random()), contextB);
 

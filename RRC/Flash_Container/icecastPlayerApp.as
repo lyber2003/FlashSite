@@ -23,7 +23,7 @@ Security.allowDomain("*");
 	 
 
 		//public  var icer:IcecastPlayer = new IcecastPlayer(new URLRequest("http://fs1.stream24.net:8260/stream"));
-		public  var icer:IcecastPlayer = new IcecastPlayer(new URLRequest("http://37.57.234.41:2000/stream"));
+		public  var icer:IcecastPlayer = new IcecastPlayer(new URLRequest("http://37.57.237.182:2000/stream"));
     public function icecastPlayerApp()
     {
 		trace("icecastPlayerApp loaded")
